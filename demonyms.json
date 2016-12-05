@@ -1,0 +1,4638 @@
+[
+    {
+        "demonym": "African",
+        "origins": [
+            "Africa"
+        ]
+    },
+    {
+        "demonym": "Antarctican",
+        "origins": [
+            "Antarctica"
+        ]
+    },
+    {
+        "demonym": "Asian",
+        "origins": [
+            "Asia"
+        ]
+    },
+    {
+        "demonym": "Australian",
+        "origins": [
+            "Australia"
+        ]
+    },
+    {
+        "demonym": "European",
+        "origins": [
+            "Europe"
+        ]
+    },
+    {
+        "demonym": "American",
+        "origins": [
+            "Americas"
+        ]
+    },
+    {
+        "demonym": "North American",
+        "origins": [
+            "North America"
+        ]
+    },
+    {
+        "demonym": "South American",
+        "origins": [
+            "South America"
+        ]
+    },
+    {
+        "demonym": "Abkhaz",
+        "origins": [
+            "Abkhazia"
+        ]
+    },
+    {
+        "demonym": "Abkhazian",
+        "origins": [
+            "Abkhazia"
+        ]
+    },
+    {
+        "demonym": "Albanian",
+        "origins": [
+            "Albania"
+        ]
+    },
+    {
+        "demonym": "Algerian",
+        "origins": [
+            "Algeria"
+        ]
+    },
+    {
+        "demonym": "Andorran",
+        "origins": [
+            "Andorra"
+        ]
+    },
+    {
+        "demonym": "Angolan",
+        "origins": [
+            "Angola"
+        ]
+    },
+    {
+        "demonym": "Antiguan",
+        "origins": [
+            "Antigua"
+        ]
+    },
+    {
+        "demonym": "Armenian",
+        "origins": [
+            "Armenia"
+        ]
+    },
+    {
+        "demonym": "Assyrian",
+        "origins": [
+            "Assyria"
+        ]
+    },
+    {
+        "demonym": "Australian",
+        "origins": [
+            "Australia"
+        ]
+    },
+    {
+        "demonym": "Austrian",
+        "origins": [
+            "Austria"
+        ]
+    },
+    {
+        "demonym": "Barbudan",
+        "origins": [
+            "Barbuda"
+        ]
+    },
+    {
+        "demonym": "Belizean",
+        "origins": [
+            "Belize"
+        ]
+    },
+    {
+        "demonym": "Bolivian",
+        "origins": [
+            "Bolivia"
+        ]
+    },
+    {
+        "demonym": "Bosnian",
+        "origins": [
+            "Bosnia"
+        ]
+    },
+    {
+        "demonym": "Bruneian",
+        "origins": [
+            "Brunei"
+        ]
+    },
+    {
+        "demonym": "Bulgarian",
+        "origins": [
+            "Bulgaria"
+        ]
+    },
+    {
+        "demonym": "Chilean",
+        "origins": [
+            "Chile"
+        ]
+    },
+    {
+        "demonym": "Colombian",
+        "origins": [
+            "Colombia"
+        ]
+    },
+    {
+        "demonym": "Costa Rican",
+        "origins": [
+            "Costa Rica"
+        ]
+    },
+    {
+        "demonym": "Croat",
+        "origins": [
+            "Croatia"
+        ]
+    },
+    {
+        "demonym": "Croatian",
+        "origins": [
+            "Croatia"
+        ]
+    },
+    {
+        "demonym": "Cuban",
+        "origins": [
+            "Cuba"
+        ]
+    },
+    {
+        "demonym": "Dominican",
+        "origins": [
+            "Dominica"
+        ]
+    },
+    {
+        "demonym": "Dominican",
+        "origins": [
+            "Dominican Republic"
+        ]
+    },
+    {
+        "demonym": "Salvadoran",
+        "origins": [
+            "El Salvador"
+        ]
+    },
+    {
+        "demonym": "Eritrean",
+        "origins": [
+            "Eritrea"
+        ]
+    },
+    {
+        "demonym": "Estonian",
+        "origins": [
+            "Estonia"
+        ]
+    },
+    {
+        "demonym": "Ethiopian",
+        "origins": [
+            "Ethiopia"
+        ]
+    },
+    {
+        "demonym": "Fijian",
+        "origins": [
+            "Fiji"
+        ]
+    },
+    {
+        "demonym": "Gambian",
+        "origins": [
+            "Gambia"
+        ]
+    },
+    {
+        "demonym": "Gazan",
+        "origins": [
+            "Gaza"
+        ]
+    },
+    {
+        "demonym": "Georgian",
+        "origins": [
+            "Georgia"
+        ]
+    },
+    {
+        "demonym": "Guatemalan",
+        "origins": [
+            "Guatemala"
+        ]
+    },
+    {
+        "demonym": "Guinean",
+        "origins": [
+            "Guinea"
+        ]
+    },
+    {
+        "demonym": "Haitian",
+        "origins": [
+            "Haiti"
+        ]
+    },
+    {
+        "demonym": "Honduran",
+        "origins": [
+            "Honduras"
+        ]
+    },
+    {
+        "demonym": "Indian",
+        "origins": [
+            "India"
+        ]
+    },
+    {
+        "demonym": "Indonesian",
+        "origins": [
+            "Indonesia"
+        ]
+    },
+    {
+        "demonym": "Ivorian",
+        "origins": [
+            "Ivory Coast"
+        ]
+    },
+    {
+        "demonym": "Jamaican",
+        "origins": [
+            "Jamaica"
+        ]
+    },
+    {
+        "demonym": "Kenyan",
+        "origins": [
+            "Kenya"
+        ]
+    },
+    {
+        "demonym": "Korean",
+        "origins": [
+            "Korea"
+        ]
+    },
+    {
+        "demonym": "Latvian",
+        "origins": [
+            "Latvia"
+        ]
+    },
+    {
+        "demonym": "Liberian",
+        "origins": [
+            "Liberia"
+        ]
+    },
+    {
+        "demonym": "Libyan",
+        "origins": [
+            "Libya"
+        ]
+    },
+    {
+        "demonym": "Lithuanian",
+        "origins": [
+            "Lithuania"
+        ]
+    },
+    {
+        "demonym": "Macedonian",
+        "origins": [
+            "Macedonia"
+        ]
+    },
+    {
+        "demonym": "Malawian",
+        "origins": [
+            "Malawi"
+        ]
+    },
+    {
+        "demonym": "Malaysian",
+        "origins": [
+            "Malaysia"
+        ]
+    },
+    {
+        "demonym": "Malian",
+        "origins": [
+            "Mali"
+        ]
+    },
+    {
+        "demonym": "Mauritanian",
+        "origins": [
+            "Mauritania"
+        ]
+    },
+    {
+        "demonym": "Mauritian",
+        "origins": [
+            "Mauritius"
+        ]
+    },
+    {
+        "demonym": "Mexican",
+        "origins": [
+            "Mexico"
+        ]
+    },
+    {
+        "demonym": "Micronesian",
+        "origins": [
+            "Micronesia"
+        ]
+    },
+    {
+        "demonym": "Moldovan",
+        "origins": [
+            "Moldova"
+        ]
+    },
+    {
+        "demonym": "Mongol",
+        "origins": [
+            "Mongolia"
+        ]
+    },
+    {
+        "demonym": "Mongolian",
+        "origins": [
+            "Mongolia"
+        ]
+    },
+    {
+        "demonym": "Moroccan",
+        "origins": [
+            "Morocco"
+        ]
+    },
+    {
+        "demonym": "Mozambican",
+        "origins": [
+            "Mozambique"
+        ]
+    },
+    {
+        "demonym": "Namibian",
+        "origins": [
+            "Namibia"
+        ]
+    },
+    {
+        "demonym": "Nauruan",
+        "origins": [
+            "Nauru"
+        ]
+    },
+    {
+        "demonym": "Nicaraguan",
+        "origins": [
+            "Nicaragua"
+        ]
+    },
+    {
+        "demonym": "Nigerian",
+        "origins": [
+            "Nigeria"
+        ]
+    },
+    {
+        "demonym": "Palauan",
+        "origins": [
+            "Palau"
+        ]
+    },
+    {
+        "demonym": "Papuan",
+        "origins": [
+            "Papua"
+        ]
+    },
+    {
+        "demonym": "Paraguayan",
+        "origins": [
+            "Paraguay"
+        ]
+    },
+    {
+        "demonym": "Persian",
+        "origins": [
+            "Persia"
+        ]
+    },
+    {
+        "demonym": "Peruvian",
+        "origins": [
+            "Peru"
+        ]
+    },
+    {
+        "demonym": "Puerto Rican",
+        "origins": [
+            "Puerto Rico"
+        ]
+    },
+    {
+        "demonym": "Romanian",
+        "origins": [
+            "Romania"
+        ]
+    },
+    {
+        "demonym": "Russian",
+        "origins": [
+            "Russia"
+        ]
+    },
+    {
+        "demonym": "Rwandese",
+        "origins": [
+            "Rwanda"
+        ]
+    },
+    {
+        "demonym": "Rwandan",
+        "origins": [
+            "Rwanda"
+        ]
+    },
+    {
+        "demonym": "Saint Lucian",
+        "origins": [
+            "Saint Lucia"
+        ]
+    },
+    {
+        "demonym": "Samoan",
+        "origins": [
+            "Samoa"
+        ]
+    },
+    {
+        "demonym": "Saudi",
+        "origins": [
+            "Saudi Arabia"
+        ]
+    },
+    {
+        "demonym": "Saudi Arabian",
+        "origins": [
+            "Saudi Arabia"
+        ]
+    },
+    {
+        "demonym": "Serb",
+        "origins": [
+            "Serbia"
+        ]
+    },
+    {
+        "demonym": "Serbian",
+        "origins": [
+            "Serbia"
+        ]
+    },
+    {
+        "demonym": "Sierra Leonean",
+        "origins": [
+            "Sierra Leone"
+        ]
+    },
+    {
+        "demonym": "Singaporean",
+        "origins": [
+            "Singapore"
+        ]
+    },
+    {
+        "demonym": "Slovak",
+        "origins": [
+            "Slovakia"
+        ]
+    },
+    {
+        "demonym": "Slovakian",
+        "origins": [
+            "Slovakia"
+        ]
+    },
+    {
+        "demonym": "Slovene",
+        "origins": [
+            "Slovenia"
+        ]
+    },
+    {
+        "demonym": "Slovenian",
+        "origins": [
+            "Slovenia"
+        ]
+    },
+    {
+        "demonym": "South African",
+        "origins": [
+            "South Africa"
+        ]
+    },
+    {
+        "demonym": "Sri Lankan",
+        "origins": [
+            "Sri Lanka"
+        ]
+    },
+    {
+        "demonym": "Nevisian",
+        "origins": [
+            "Nevis"
+        ]
+    },
+    {
+        "demonym": "Kittitian",
+        "origins": [
+            "St. Kitts"
+        ]
+    },
+    {
+        "demonym": "Syrian",
+        "origins": [
+            "Syria"
+        ]
+    },
+    {
+        "demonym": "Tanzanian",
+        "origins": [
+            "Tanzania"
+        ]
+    },
+    {
+        "demonym": "Tongan",
+        "origins": [
+            "Tonga"
+        ]
+    },
+    {
+        "demonym": "Tunisian",
+        "origins": [
+            "Tunisia"
+        ]
+    },
+    {
+        "demonym": "Tuvaluan",
+        "origins": [
+            "Tuvalu"
+        ]
+    },
+    {
+        "demonym": "Ugandan",
+        "origins": [
+            "Uganda"
+        ]
+    },
+    {
+        "demonym": "American",
+        "origins": [
+            "United States of America"
+        ]
+    },
+    {
+        "demonym": "Uruguayan",
+        "origins": [
+            "Uruguay"
+        ]
+    },
+    {
+        "demonym": "Venezuelan",
+        "origins": [
+            "Venezuela"
+        ]
+    },
+    {
+        "demonym": "Zambian",
+        "origins": [
+            "Zambia"
+        ]
+    },
+    {
+        "demonym": "Zimbabwean",
+        "origins": [
+            "Zimbabwe"
+        ]
+    },
+    {
+        "demonym": "Alaskan",
+        "origins": [
+            "Alaska"
+        ]
+    },
+    {
+        "demonym": "Albertan",
+        "origins": [
+            "Alberta"
+        ]
+    },
+    {
+        "demonym": "Andalusian",
+        "origins": [
+            "Andalusia"
+        ]
+    },
+    {
+        "demonym": "Arizonan",
+        "origins": [
+            "Arizona"
+        ]
+    },
+    {
+        "demonym": "Arkansan",
+        "origins": [
+            "Arkansas"
+        ]
+    },
+    {
+        "demonym": "Asturian",
+        "origins": [
+            "Asturias"
+        ]
+    },
+    {
+        "demonym": "Bavarian",
+        "origins": [
+            "Bavaria"
+        ]
+    },
+    {
+        "demonym": "Bohemian",
+        "origins": [
+            "Bohemia"
+        ]
+    },
+    {
+        "demonym": "Bornean",
+        "origins": [
+            "Borneo"
+        ]
+    },
+    {
+        "demonym": "British Columbian",
+        "origins": [
+            "British Columbia"
+        ]
+    },
+    {
+        "demonym": "Californian",
+        "origins": [
+            "California"
+        ]
+    },
+    {
+        "demonym": "Cantabrian",
+        "origins": [
+            "Cantabria"
+        ]
+    },
+    {
+        "demonym": "Carinthian",
+        "origins": [
+            "Carinthia"
+        ]
+    },
+    {
+        "demonym": "Coloradan",
+        "origins": [
+            "Colorado"
+        ]
+    },
+    {
+        "demonym": "Corsican",
+        "origins": [
+            "Corsica"
+        ]
+    },
+    {
+        "demonym": "Cretan",
+        "origins": [
+            "Crete"
+        ]
+    },
+    {
+        "demonym": "Crimean",
+        "origins": [
+            "Crimea"
+        ]
+    },
+    {
+        "demonym": "Dalmatian",
+        "origins": [
+            "Dalmatia"
+        ]
+    },
+    {
+        "demonym": "Delawarean",
+        "origins": [
+            "Delaware"
+        ]
+    },
+    {
+        "demonym": "Extremaduran",
+        "origins": [
+            "Extremadura"
+        ]
+    },
+    {
+        "demonym": "Galician",
+        "origins": [
+            "Galicia"
+        ]
+    },
+    {
+        "demonym": "Galilean",
+        "origins": [
+            "Galilee"
+        ]
+    },
+    {
+        "demonym": "Hawaiian",
+        "origins": [
+            "Hawaiʻi"
+        ]
+    },
+    {
+        "demonym": "Hebridean",
+        "origins": [
+            "Hebrides"
+        ]
+    },
+    {
+        "demonym": "Idahoan",
+        "origins": [
+            "Idaho"
+        ]
+    },
+    {
+        "demonym": "Illinoisan",
+        "origins": [
+            "Illinois"
+        ]
+    },
+    {
+        "demonym": "Iowan",
+        "origins": [
+            "Iowa"
+        ]
+    },
+    {
+        "demonym": "Javanese",
+        "origins": [
+            "Java"
+        ]
+    },
+    {
+        "demonym": "Javan",
+        "origins": [
+            "Java"
+        ]
+    },
+    {
+        "demonym": "Johorean",
+        "origins": [
+            "Johor"
+        ]
+    },
+    {
+        "demonym": "Judean",
+        "origins": [
+            "Judea"
+        ]
+    },
+    {
+        "demonym": "Kansan",
+        "origins": [
+            "Kansas"
+        ]
+    },
+    {
+        "demonym": "Karelian",
+        "origins": [
+            "Karelia"
+        ]
+    },
+    {
+        "demonym": "Ligurian",
+        "origins": [
+            "Liguria"
+        ]
+    },
+    {
+        "demonym": "Louisianian",
+        "origins": [
+            "Louisiana"
+        ]
+    },
+    {
+        "demonym": "Louisianan",
+        "origins": [
+            "Louisiana"
+        ]
+    },
+    {
+        "demonym": "Madeiran",
+        "origins": [
+            "Madeira"
+        ]
+    },
+    {
+        "demonym": "Majorcan",
+        "origins": [
+            "Majorca"
+        ]
+    },
+    {
+        "demonym": "Manitoban",
+        "origins": [
+            "Manitoba"
+        ]
+    },
+    {
+        "demonym": "Masurian",
+        "origins": [
+            "Masuria"
+        ]
+    },
+    {
+        "demonym": "Minnesotan",
+        "origins": [
+            "Minnesota"
+        ]
+    },
+    {
+        "demonym": "Minorcan",
+        "origins": [
+            "Minorca"
+        ]
+    },
+    {
+        "demonym": "Mississippian",
+        "origins": [
+            "Mississippi"
+        ]
+    },
+    {
+        "demonym": "Missourian",
+        "origins": [
+            "Missouri"
+        ]
+    },
+    {
+        "demonym": "Moluccan",
+        "origins": [
+            "Moluccas"
+        ]
+    },
+    {
+        "demonym": "Montanan",
+        "origins": [
+            "Montana"
+        ]
+    },
+    {
+        "demonym": "Moravian",
+        "origins": [
+            "Moravia"
+        ]
+    },
+    {
+        "demonym": "Nebraskan",
+        "origins": [
+            "Nebraska"
+        ]
+    },
+    {
+        "demonym": "Nevadan",
+        "origins": [
+            "Nevada"
+        ]
+    },
+    {
+        "demonym": "New Jerseyan",
+        "origins": [
+            "New Jersey"
+        ]
+    },
+    {
+        "demonym": "New Mexican",
+        "origins": [
+            "New Mexico"
+        ]
+    },
+    {
+        "demonym": "Nova Scotian",
+        "origins": [
+            "Nova Scotia"
+        ]
+    },
+    {
+        "demonym": "Ohioan",
+        "origins": [
+            "Ohio"
+        ]
+    },
+    {
+        "demonym": "Oklahoman",
+        "origins": [
+            "Oklahoma"
+        ]
+    },
+    {
+        "demonym": "Ontarian",
+        "origins": [
+            "Ontario"
+        ]
+    },
+    {
+        "demonym": "Patagonian",
+        "origins": [
+            "Patagonia"
+        ]
+    },
+    {
+        "demonym": "Pennsylvanian",
+        "origins": [
+            "Pennsylvania"
+        ]
+    },
+    {
+        "demonym": "Pomeranian",
+        "origins": [
+            "Pomerania"
+        ]
+    },
+    {
+        "demonym": "Samogitian",
+        "origins": [
+            "Samogitia"
+        ]
+    },
+    {
+        "demonym": "Sardinian",
+        "origins": [
+            "Sardinia"
+        ]
+    },
+    {
+        "demonym": "Silesian",
+        "origins": [
+            "Silesia"
+        ]
+    },
+    {
+        "demonym": "Sioux Cityan",
+        "origins": [
+            "Sioux City"
+        ]
+    },
+    {
+        "demonym": "South Australian",
+        "origins": [
+            "South Australia"
+        ]
+    },
+    {
+        "demonym": "Styrian",
+        "origins": [
+            "Styria"
+        ]
+    },
+    {
+        "demonym": "Sumatran",
+        "origins": [
+            "Sumatra"
+        ]
+    },
+    {
+        "demonym": "Tahitian",
+        "origins": [
+            "Tahiti"
+        ]
+    },
+    {
+        "demonym": "Tasmanian",
+        "origins": [
+            "Tasmania"
+        ]
+    },
+    {
+        "demonym": "Tennesseean",
+        "origins": [
+            "Tennessee"
+        ]
+    },
+    {
+        "demonym": "Texan",
+        "origins": [
+            "Texas"
+        ]
+    },
+    {
+        "demonym": "Thuringian",
+        "origins": [
+            "Thuringia"
+        ]
+    },
+    {
+        "demonym": "Transylvanian",
+        "origins": [
+            "Transylvania"
+        ]
+    },
+    {
+        "demonym": "Umbrian",
+        "origins": [
+            "Umbria"
+        ]
+    },
+    {
+        "demonym": "Utahn",
+        "origins": [
+            "Utah"
+        ]
+    },
+    {
+        "demonym": "Victorian",
+        "origins": [
+            "Victoria"
+        ]
+    },
+    {
+        "demonym": "Virginian",
+        "origins": [
+            "Virginia"
+        ]
+    },
+    {
+        "demonym": "Wakean",
+        "origins": [
+            "Wake Island"
+        ]
+    },
+    {
+        "demonym": "Wallachian",
+        "origins": [
+            "Wallachia"
+        ]
+    },
+    {
+        "demonym": "Western Australian",
+        "origins": [
+            "Western Australia"
+        ]
+    },
+    {
+        "demonym": "West Papuan",
+        "origins": [
+            "West Papua"
+        ]
+    },
+    {
+        "demonym": "Westphalian",
+        "origins": [
+            "Westphalia"
+        ]
+    },
+    {
+        "demonym": "Alexandrian",
+        "origins": [
+            "Alexandria"
+        ]
+    },
+    {
+        "demonym": "Annapolitan",
+        "origins": [
+            "Annapolis"
+        ]
+    },
+    {
+        "demonym": "Atlantan",
+        "origins": [
+            "Atlanta"
+        ]
+    },
+    {
+        "demonym": "Baltimorean",
+        "origins": [
+            "Baltimore"
+        ]
+    },
+    {
+        "demonym": "Bogotan",
+        "origins": [
+            "Bogotá"
+        ]
+    },
+    {
+        "demonym": "Canberran",
+        "origins": [
+            "Canberra"
+        ]
+    },
+    {
+        "demonym": "Charlottean",
+        "origins": [
+            "Charlotte"
+        ]
+    },
+    {
+        "demonym": "Chicagoan",
+        "origins": [
+            "Chicago"
+        ]
+    },
+    {
+        "demonym": "Cincinnatian",
+        "origins": [
+            "Cincinnati"
+        ]
+    },
+    {
+        "demonym": "El Pasoan, El Paseño",
+        "origins": [
+            "El Paso"
+        ]
+    },
+    {
+        "demonym": "Hanoian",
+        "origins": [
+            "Hanoi"
+        ]
+    },
+    {
+        "demonym": "Indianapolitan",
+        "origins": [
+            "Indianapolis"
+        ]
+    },
+    {
+        "demonym": "Jakartan",
+        "origins": [
+            "Jakarta"
+        ]
+    },
+    {
+        "demonym": "Kalamazooan",
+        "origins": [
+            "Kalamazoo"
+        ]
+    },
+    {
+        "demonym": "Kievan",
+        "origins": [
+            "Kiev"
+        ]
+    },
+    {
+        "demonym": "Calcuttan",
+        "origins": [
+            "Kolkata"
+        ]
+    },
+    {
+        "demonym": "Las Vegan",
+        "origins": [
+            "Las Vegas"
+        ]
+    },
+    {
+        "demonym": "Miamian",
+        "origins": [
+            "Miami"
+        ]
+    },
+    {
+        "demonym": "Minneapolitan",
+        "origins": [
+            "Minneapolis"
+        ]
+    },
+    {
+        "demonym": "Ottawan",
+        "origins": [
+            "Ottawa"
+        ]
+    },
+    {
+        "demonym": "Philadelphian",
+        "origins": [
+            "Philadelphia"
+        ]
+    },
+    {
+        "demonym": "Phoenician",
+        "origins": [
+            "Phoenix"
+        ]
+    },
+    {
+        "demonym": "Pisan",
+        "origins": [
+            "Pisa"
+        ]
+    },
+    {
+        "demonym": "Reginan",
+        "origins": [
+            "Regina"
+        ]
+    },
+    {
+        "demonym": "Rigan",
+        "origins": [
+            "Riga"
+        ]
+    },
+    {
+        "demonym": "Roman",
+        "origins": [
+            "Rome"
+        ]
+    },
+    {
+        "demonym": "San Antonian",
+        "origins": [
+            "San Antonio"
+        ]
+    },
+    {
+        "demonym": "San Diegan",
+        "origins": [
+            "San Diego"
+        ]
+    },
+    {
+        "demonym": "San Franciscan",
+        "origins": [
+            "San Francisco"
+        ]
+    },
+    {
+        "demonym": "San Josean",
+        "origins": [
+            "San Jose"
+        ]
+    },
+    {
+        "demonym": "Sarasotan",
+        "origins": [
+            "Sarasota"
+        ]
+    },
+    {
+        "demonym": "Springvillian",
+        "origins": [
+            "Springville"
+        ]
+    },
+    {
+        "demonym": "Sofian",
+        "origins": [
+            "Sofia"
+        ]
+    },
+    {
+        "demonym": "St. Louisan",
+        "origins": [
+            "St. Louis"
+        ]
+    },
+    {
+        "demonym": "Theban",
+        "origins": [
+            "Thebes"
+        ]
+    },
+    {
+        "demonym": "Toledoan",
+        "origins": [
+            "Toledo, Ohio"
+        ]
+    },
+    {
+        "demonym": "Tucsonan",
+        "origins": [
+            "Tucson"
+        ]
+    },
+    {
+        "demonym": "Tulsan",
+        "origins": [
+            "Tulsa"
+        ]
+    },
+    {
+        "demonym": "Valencian",
+        "origins": [
+            "Valencia"
+        ]
+    },
+    {
+        "demonym": "Vilnian",
+        "origins": [
+            "Vilnius"
+        ]
+    },
+    {
+        "demonym": "Yuman",
+        "origins": [
+            "Yuma"
+        ]
+    },
+    {
+        "demonym": "Argentine",
+        "origins": [
+            "Argentina"
+        ]
+    },
+    {
+        "demonym": "Argentinean",
+        "origins": [
+            "Argentina"
+        ]
+    },
+    {
+        "demonym": "Argentinian",
+        "origins": [
+            "Argentina"
+        ]
+    },
+    {
+        "demonym": "Azeri",
+        "origins": [
+            "Azerbaijan"
+        ]
+    },
+    {
+        "demonym": "Azerbaijanian",
+        "origins": [
+            "Azerbaijan"
+        ]
+    },
+    {
+        "demonym": "Bahamian",
+        "origins": [
+            "Bahamas"
+        ]
+    },
+    {
+        "demonym": "Bajan",
+        "origins": [
+            "Barbados"
+        ]
+    },
+    {
+        "demonym": "Barbadian",
+        "origins": [
+            "Barbados"
+        ]
+    },
+    {
+        "demonym": "Belarusian",
+        "origins": [
+            "Belarus"
+        ]
+    },
+    {
+        "demonym": "Belgian",
+        "origins": [
+            "Belgium"
+        ]
+    },
+    {
+        "demonym": "Bermudian",
+        "origins": [
+            "Bermuda"
+        ]
+    },
+    {
+        "demonym": "Brazilian",
+        "origins": [
+            "Brazil"
+        ]
+    },
+    {
+        "demonym": "Cameroonian",
+        "origins": [
+            "Cameroon"
+        ]
+    },
+    {
+        "demonym": "Canadian",
+        "origins": [
+            "Canada"
+        ]
+    },
+    {
+        "demonym": "Caymanian",
+        "origins": [
+            "Cayman Islands"
+        ]
+    },
+    {
+        "demonym": "Chadian",
+        "origins": [
+            "Chad"
+        ]
+    },
+    {
+        "demonym": "Comorian",
+        "origins": [
+            "Comoros"
+        ]
+    },
+    {
+        "demonym": "Ecuadorian",
+        "origins": [
+            "Ecuador"
+        ]
+    },
+    {
+        "demonym": "Egyptian",
+        "origins": [
+            "Egypt"
+        ]
+    },
+    {
+        "demonym": "Ghanaian",
+        "origins": [
+            "Ghana"
+        ]
+    },
+    {
+        "demonym": "Grenadian",
+        "origins": [
+            "Grenada"
+        ]
+    },
+    {
+        "demonym": "Hungarian",
+        "origins": [
+            "Hungary"
+        ]
+    },
+    {
+        "demonym": "Indian",
+        "origins": [
+            "India"
+        ]
+    },
+    {
+        "demonym": "Irani",
+        "origins": [
+            "Iran"
+        ]
+    },
+    {
+        "demonym": "Persian",
+        "origins": [
+            "Iran"
+        ]
+    },
+    {
+        "demonym": "Iranian",
+        "origins": [
+            "Iran"
+        ]
+    },
+    {
+        "demonym": "Italian",
+        "origins": [
+            "Italy"
+        ]
+    },
+    {
+        "demonym": "Jordanian",
+        "origins": [
+            "Jordan"
+        ]
+    },
+    {
+        "demonym": "Laotian",
+        "origins": [
+            "Laos"
+        ]
+    },
+    {
+        "demonym": "Maldivian",
+        "origins": [
+            "Maldives"
+        ]
+    },
+    {
+        "demonym": "Palestinian",
+        "origins": [
+            "Palestine"
+        ]
+    },
+    {
+        "demonym": "Vincentian",
+        "origins": [
+            "Saint Vincent"
+        ]
+    },
+    {
+        "demonym": "Trinidadian",
+        "origins": [
+            "Trinidad"
+        ]
+    },
+    {
+        "demonym": "Ukrainian",
+        "origins": [
+            "Ukraine"
+        ]
+    },
+    {
+        "demonym": "Adelaidian",
+        "origins": [
+            "Adelaide"
+        ]
+    },
+    {
+        "demonym": "Alabaman",
+        "origins": [
+            "Alabama"
+        ]
+    },
+    {
+        "demonym": "Alabamian",
+        "origins": [
+            "Alabama"
+        ]
+    },
+    {
+        "demonym": "Athenian",
+        "origins": [
+            "Athens"
+        ]
+    },
+    {
+        "demonym": "Ballaratian",
+        "origins": [
+            "Ballarat"
+        ]
+    },
+    {
+        "demonym": "Blackpudlian",
+        "origins": [
+            "Blackpool"
+        ]
+    },
+    {
+        "demonym": "Bangkokian",
+        "origins": [
+            "Bangkok"
+        ]
+    },
+    {
+        "demonym": "Bostonian",
+        "origins": [
+            "Boston"
+        ]
+    },
+    {
+        "demonym": "Brisbanite",
+        "origins": [
+            "Brisbane"
+        ]
+    },
+    {
+        "demonym": "Brisbanian",
+        "origins": [
+            "Brisbane"
+        ]
+    },
+    {
+        "demonym": "Bristolian",
+        "origins": [
+            "Bristol"
+        ]
+    },
+    {
+        "demonym": "Burgundian",
+        "origins": [
+            "Burgundy"
+        ]
+    },
+    {
+        "demonym": "Calgarian",
+        "origins": [
+            "Calgary"
+        ]
+    },
+    {
+        "demonym": "Canarian",
+        "origins": [
+            "Canary Islands"
+        ]
+    },
+    {
+        "demonym": "Cardiffian",
+        "origins": [
+            "Cardiff"
+        ]
+    },
+    {
+        "demonym": "Castilian",
+        "origins": [
+            "Castile"
+        ]
+    },
+    {
+        "demonym": "Christchurcher",
+        "origins": [
+            "Christchurch"
+        ]
+    },
+    {
+        "demonym": "Christchurchian",
+        "origins": [
+            "Christchurch"
+        ]
+    },
+    {
+        "demonym": "Corinthian",
+        "origins": [
+            "Corinth"
+        ]
+    },
+    {
+        "demonym": "Coventrian",
+        "origins": [
+            "Coventry"
+        ]
+    },
+    {
+        "demonym": "Cumbrian",
+        "origins": [
+            "Cumbria"
+        ]
+    },
+    {
+        "demonym": "Daytonian",
+        "origins": [
+            "Dayton"
+        ]
+    },
+    {
+        "demonym": "Devonian",
+        "origins": [
+            "Devon"
+        ]
+    },
+    {
+        "demonym": "Duluthian",
+        "origins": [
+            "Duluth"
+        ]
+    },
+    {
+        "demonym": "Edmontonian",
+        "origins": [
+            "Edmonton"
+        ]
+    },
+    {
+        "demonym": "Floridian",
+        "origins": [
+            "Florida"
+        ]
+    },
+    {
+        "demonym": "Fort Worthian",
+        "origins": [
+            "Fort Worth"
+        ]
+    },
+    {
+        "demonym": "Frederictonian",
+        "origins": [
+            "Fredericton"
+        ]
+    },
+    {
+        "demonym": "Gibraltarian",
+        "origins": [
+            "Gibraltar"
+        ]
+    },
+    {
+        "demonym": "Greenvillian",
+        "origins": [
+            "Greenville"
+        ]
+    },
+    {
+        "demonym": "Hamiltonian",
+        "origins": [
+            "Hamilton"
+        ]
+    },
+    {
+        "demonym": "Harrovian",
+        "origins": [
+            "Harrow"
+        ]
+    },
+    {
+        "demonym": "Hartlepudlian",
+        "origins": [
+            "Hartlepool"
+        ]
+    },
+    {
+        "demonym": "Herefordian",
+        "origins": [
+            "Hereford"
+        ]
+    },
+    {
+        "demonym": "Hessian",
+        "origins": [
+            "Hesse"
+        ]
+    },
+    {
+        "demonym": "Hobartian",
+        "origins": [
+            "Hobart"
+        ]
+    },
+    {
+        "demonym": "Houstonian",
+        "origins": [
+            "Houston"
+        ]
+    },
+    {
+        "demonym": "Scillonian",
+        "origins": [
+            "Isles of Scilly"
+        ]
+    },
+    {
+        "demonym": "Iowa Citian",
+        "origins": [
+            "Iowa City"
+        ]
+    },
+    {
+        "demonym": "Jessupian",
+        "origins": [
+            "Jessup"
+        ]
+    },
+    {
+        "demonym": "Kansas Citian",
+        "origins": [
+            "Kansas City"
+        ]
+    },
+    {
+        "demonym": "Kentuckian",
+        "origins": [
+            "Kentucky"
+        ]
+    },
+    {
+        "demonym": "Kingstonian",
+        "origins": [
+            "Kingston"
+        ]
+    },
+    {
+        "demonym": "Lancastrian",
+        "origins": [
+            "Lancashire"
+        ]
+    },
+    {
+        "demonym": "Lancastrian",
+        "origins": [
+            "Lancaster"
+        ]
+    },
+    {
+        "demonym": "Lethbridgian",
+        "origins": [
+            "Lethbridge"
+        ]
+    },
+    {
+        "demonym": "Liverpudlian",
+        "origins": [
+            "Liverpool"
+        ]
+    },
+    {
+        "demonym": "Louisianan",
+        "origins": [
+            "Louisiana"
+        ]
+    },
+    {
+        "demonym": "Louisianian",
+        "origins": [
+            "Louisiana"
+        ]
+    },
+    {
+        "demonym": "Louisvillian",
+        "origins": [
+            "Louisville"
+        ]
+    },
+    {
+        "demonym": "Madrilenian",
+        "origins": [
+            "Madrid"
+        ]
+    },
+    {
+        "demonym": "Maharashtrian",
+        "origins": [
+            "Maharashtra"
+        ]
+    },
+    {
+        "demonym": "Mancunian",
+        "origins": [
+            "Manchester"
+        ]
+    },
+    {
+        "demonym": "McKinnian",
+        "origins": [
+            "McKinney"
+        ]
+    },
+    {
+        "demonym": "Melburnian",
+        "origins": [
+            "Melbourne"
+        ]
+    },
+    {
+        "demonym": "Memphian",
+        "origins": [
+            "Memphis"
+        ]
+    },
+    {
+        "demonym": "Michigander",
+        "origins": [
+            "Michigan"
+        ]
+    },
+    {
+        "demonym": "Michiganian",
+        "origins": [
+            "Michigan"
+        ]
+    },
+    {
+        "demonym": "New Guinian",
+        "origins": [
+            "New Guinea"
+        ]
+    },
+    {
+        "demonym": "New Orleanian",
+        "origins": [
+            "New Orleans"
+        ]
+    },
+    {
+        "demonym": "North Carolinian",
+        "origins": [
+            "North Carolina"
+        ]
+    },
+    {
+        "demonym": "Territorian",
+        "origins": [
+            "Northern Territory"
+        ]
+    },
+    {
+        "demonym": "Oregonian",
+        "origins": [
+            "Oregon"
+        ]
+    },
+    {
+        "demonym": "Parisian",
+        "origins": [
+            "Paris"
+        ]
+    },
+    {
+        "demonym": "Peterborian",
+        "origins": [
+            "Peterborough"
+        ]
+    },
+    {
+        "demonym": "Phoenician",
+        "origins": [
+            "Phoenix"
+        ]
+    },
+    {
+        "demonym": "Plymothian",
+        "origins": [
+            "Plymouth"
+        ]
+    },
+    {
+        "demonym": "Harcourtian",
+        "origins": [
+            "Port Harcourt"
+        ]
+    },
+    {
+        "demonym": "Prestonian",
+        "origins": [
+            "Preston, Lancashire"
+        ]
+    },
+    {
+        "demonym": "Prince Georgian",
+        "origins": [
+            "Prince George's County"
+        ]
+    },
+    {
+        "demonym": "Riverian",
+        "origins": [
+            "Rivers State"
+        ]
+    },
+    {
+        "demonym": "Saskatchewanian",
+        "origins": [
+            "Saskatchewan"
+        ]
+    },
+    {
+        "demonym": "Saskatonian",
+        "origins": [
+            "Saskatoon"
+        ]
+    },
+    {
+        "demonym": "Sicilian",
+        "origins": [
+            "Sicily"
+        ]
+    },
+    {
+        "demonym": "Silhillian",
+        "origins": [
+            "Solihull"
+        ]
+    },
+    {
+        "demonym": "South Carolinian",
+        "origins": [
+            "South Carolina"
+        ]
+    },
+    {
+        "demonym": "Swindonian",
+        "origins": [
+            "Swindon"
+        ]
+    },
+    {
+        "demonym": "Thracian",
+        "origins": [
+            "Thrace"
+        ]
+    },
+    {
+        "demonym": "Towcestrian",
+        "origins": [
+            "Towcester"
+        ]
+    },
+    {
+        "demonym": "Washingtonian",
+        "origins": [
+            "Washington"
+        ]
+    },
+    {
+        "demonym": "Wellingtonian",
+        "origins": [
+            "Wellington"
+        ]
+    },
+    {
+        "demonym": "Guamanian",
+        "origins": [
+            "Guam"
+        ]
+    },
+    {
+        "demonym": "Bendigonian",
+        "origins": [
+            "Bendigo"
+        ]
+    },
+    {
+        "demonym": "Buffalonian",
+        "origins": [
+            "Buffalo"
+        ]
+    },
+    {
+        "demonym": "Panamanian",
+        "origins": [
+            "Panama"
+        ]
+    },
+    {
+        "demonym": "Sligonian",
+        "origins": [
+            "Sligo"
+        ]
+    },
+    {
+        "demonym": "Tampanian",
+        "origins": [
+            "Tampa"
+        ]
+    },
+    {
+        "demonym": "Tobagonian",
+        "origins": [
+            "Tobago"
+        ]
+    },
+    {
+        "demonym": "Torontonian",
+        "origins": [
+            "Toronto"
+        ]
+    },
+    {
+        "demonym": "Torquinian",
+        "origins": [
+            "Torquay"
+        ]
+    },
+    {
+        "demonym": "Trinbagonian",
+        "origins": [
+            "Trinidad & Tobago"
+        ]
+    },
+    {
+        "demonym": "Argentinian",
+        "origins": [
+            "Argentina"
+        ]
+    },
+    {
+        "demonym": "Argentinean",
+        "origins": [
+            "Argentina"
+        ]
+    },
+    {
+        "demonym": "Argentine",
+        "origins": [
+            "Argentina"
+        ]
+    },
+    {
+        "demonym": "Byzantine",
+        "origins": [
+            "Byzantium"
+        ]
+    },
+    {
+        "demonym": "Florentia",
+        "origins": [
+            "Florence"
+        ]
+    },
+    {
+        "demonym": "Florentine",
+        "origins": [
+            "Florence"
+        ]
+    },
+    {
+        "demonym": "Levantine",
+        "origins": [
+            "Levant"
+        ]
+    },
+    {
+        "demonym": "Montenegrin",
+        "origins": [
+            "Montenegro"
+        ]
+    },
+    {
+        "demonym": "Palatine",
+        "origins": [
+            "Palatinate"
+        ]
+    },
+    {
+        "demonym": "Philippine",
+        "origins": [
+            "Philippines"
+        ]
+    },
+    {
+        "demonym": "Philistine",
+        "origins": [
+            "Philistia"
+        ]
+    },
+    {
+        "demonym": "Cebuano",
+        "origins": [
+            "Cebu"
+        ]
+    },
+    {
+        "demonym": "Chino",
+        "origins": [
+            "China"
+        ]
+    },
+    {
+        "demonym": "Salvadoran",
+        "origins": [
+            "El Salvador"
+        ]
+    },
+    {
+        "demonym": "Salvadoreño",
+        "origins": [
+            "El Salvador"
+        ]
+    },
+    {
+        "demonym": "Filipino",
+        "origins": [
+            "Philippines"
+        ]
+    },
+    {
+        "demonym": "Burqueño",
+        "origins": [
+            "Albuquerque"
+        ]
+    },
+    {
+        "demonym": "Caviteño",
+        "origins": [
+            "Cavite"
+        ]
+    },
+    {
+        "demonym": "Davaoeño",
+        "origins": [
+            "Davao City"
+        ]
+    },
+    {
+        "demonym": "Angelino",
+        "origins": [
+            "Los Angeles"
+        ]
+    },
+    {
+        "demonym": "Angeleno",
+        "origins": [
+            "Los Angeles"
+        ]
+    },
+    {
+        "demonym": "Madrileño",
+        "origins": [
+            "Madrid"
+        ]
+    },
+    {
+        "demonym": "Malagueño",
+        "origins": [
+            "Málaga"
+        ]
+    },
+    {
+        "demonym": "Manileño",
+        "origins": [
+            "Manila"
+        ]
+    },
+    {
+        "demonym": "Paulistano",
+        "origins": [
+            "São Paulo"
+        ]
+    },
+    {
+        "demonym": "Zamboangueño",
+        "origins": [
+            "Zamboanga City"
+        ]
+    },
+    {
+        "demonym": "Akronite",
+        "origins": [
+            "Akron"
+        ]
+    },
+    {
+        "demonym": "Ann Arborite",
+        "origins": [
+            "Ann Arbor"
+        ]
+    },
+    {
+        "demonym": "Austinite",
+        "origins": [
+            "Austin"
+        ]
+    },
+    {
+        "demonym": "Bergenite",
+        "origins": [
+            "Bergen, NJ"
+        ]
+    },
+    {
+        "demonym": "Boulderite",
+        "origins": [
+            "Boulder"
+        ]
+    },
+    {
+        "demonym": "Brisbanian",
+        "origins": [
+            "Brisbane"
+        ]
+    },
+    {
+        "demonym": "Brisbanite",
+        "origins": [
+            "Brisbane"
+        ]
+    },
+    {
+        "demonym": "Bronxite",
+        "origins": [
+            "Bronx"
+        ]
+    },
+    {
+        "demonym": "Brooklynite",
+        "origins": [
+            "Brooklyn"
+        ]
+    },
+    {
+        "demonym": "Carsonite",
+        "origins": [
+            "Carson City, NV"
+        ]
+    },
+    {
+        "demonym": "Chennaiite",
+        "origins": [
+            "Chennai"
+        ]
+    },
+    {
+        "demonym": "Dallasite",
+        "origins": [
+            "Dallas"
+        ]
+    },
+    {
+        "demonym": "Decaturite",
+        "origins": [
+            "Decatur"
+        ]
+    },
+    {
+        "demonym": "Delhite",
+        "origins": [
+            "Delhi"
+        ]
+    },
+    {
+        "demonym": "Dentonite",
+        "origins": [
+            "Denton, TX"
+        ]
+    },
+    {
+        "demonym": "Denverite",
+        "origins": [
+            "Denver"
+        ]
+    },
+    {
+        "demonym": "Dubaiite",
+        "origins": [
+            "Dubai"
+        ]
+    },
+    {
+        "demonym": "Dunedinite",
+        "origins": [
+            "Dunedin"
+        ]
+    },
+    {
+        "demonym": "Durbanite",
+        "origins": [
+            "Durban"
+        ]
+    },
+    {
+        "demonym": "Erieite",
+        "origins": [
+            "Erie, PA"
+        ]
+    },
+    {
+        "demonym": "Gayaite",
+        "origins": [
+            "Gaya"
+        ]
+    },
+    {
+        "demonym": "Irmite",
+        "origins": [
+            "Irmo"
+        ]
+    },
+    {
+        "demonym": "Israeli",
+        "origins": [
+            "Israel"
+        ]
+    },
+    {
+        "demonym": "Israelite",
+        "origins": [
+            "Israel"
+        ]
+    },
+    {
+        "demonym": "Istanbulite",
+        "origins": [
+            "Istanbul"
+        ]
+    },
+    {
+        "demonym": "Jerusalemite",
+        "origins": [
+            "Jerusalem"
+        ]
+    },
+    {
+        "demonym": "Keralite",
+        "origins": [
+            "Kerala"
+        ]
+    },
+    {
+        "demonym": "Karachiite",
+        "origins": [
+            "Karachi"
+        ]
+    },
+    {
+        "demonym": "Manhattanite",
+        "origins": [
+            "Manhattan"
+        ]
+    },
+    {
+        "demonym": "Muscovia",
+        "origins": [
+            "Moscow"
+        ]
+    },
+    {
+        "demonym": "Muscovite",
+        "origins": [
+            "Moscow"
+        ]
+    },
+    {
+        "demonym": "Montpelierite",
+        "origins": [
+            "Montpelier, VT"
+        ]
+    },
+    {
+        "demonym": "New Hampshirite",
+        "origins": [
+            "New Hampshire"
+        ]
+    },
+    {
+        "demonym": "Obanite",
+        "origins": [
+            "Oban"
+        ]
+    },
+    {
+        "demonym": "Odessite",
+        "origins": [
+            "Odessa"
+        ]
+    },
+    {
+        "demonym": "Patnaite",
+        "origins": [
+            "Patna"
+        ]
+    },
+    {
+        "demonym": "Perthian",
+        "origins": [
+            "Perth"
+        ]
+    },
+    {
+        "demonym": "Perthling",
+        "origins": [
+            "Perth"
+        ]
+    },
+    {
+        "demonym": "Perthite",
+        "origins": [
+            "Perth"
+        ]
+    },
+    {
+        "demonym": "Putneyite",
+        "origins": [
+            "Putney"
+        ]
+    },
+    {
+        "demonym": "Queensite",
+        "origins": [
+            "Queens"
+        ]
+    },
+    {
+        "demonym": "Readingite",
+        "origins": [
+            "Reading"
+        ]
+    },
+    {
+        "demonym": "Renoite",
+        "origins": [
+            "Reno, NV"
+        ]
+    },
+    {
+        "demonym": "Ruskinite",
+        "origins": [
+            "Ruskin"
+        ]
+    },
+    {
+        "demonym": "Seattleite",
+        "origins": [
+            "Seattle"
+        ]
+    },
+    {
+        "demonym": "Seoulite",
+        "origins": [
+            "Seoul"
+        ]
+    },
+    {
+        "demonym": "Ahijah the Shilonite",
+        "origins": [
+            "Shiloh"
+        ]
+    },
+    {
+        "demonym": "Shilonite",
+        "origins": [
+            "Shiloh"
+        ]
+    },
+    {
+        "demonym": "Springfieldianite",
+        "origins": [
+            "Springfield"
+        ]
+    },
+    {
+        "demonym": "Spokanite",
+        "origins": [
+            "Spokane"
+        ]
+    },
+    {
+        "demonym": "Sydneysider",
+        "origins": [
+            "Sydney"
+        ]
+    },
+    {
+        "demonym": "Sydneyite",
+        "origins": [
+            "Sydney"
+        ]
+    },
+    {
+        "demonym": "Telanganite",
+        "origins": [
+            "Telangana"
+        ]
+    },
+    {
+        "demonym": "Tokyoite",
+        "origins": [
+            "Tokyo"
+        ]
+    },
+    {
+        "demonym": "Vancouverite",
+        "origins": [
+            "Vancouver"
+        ]
+    },
+    {
+        "demonym": "Westchesterite",
+        "origins": [
+            "Westchester, NY"
+        ]
+    },
+    {
+        "demonym": "Whittierite",
+        "origins": [
+            "Whittier"
+        ]
+    },
+    {
+        "demonym": "Winston-Salemite",
+        "origins": [
+            "Winston-Salem"
+        ]
+    },
+    {
+        "demonym": "Wisconsinite",
+        "origins": [
+            "Wisconsin"
+        ]
+    },
+    {
+        "demonym": "Wyomingite",
+        "origins": [
+            "Wyoming"
+        ]
+    },
+    {
+        "demonym": "Wenhamite",
+        "origins": [
+            "Wenham"
+        ]
+    },
+    {
+        "demonym": "Amsterdammer",
+        "origins": [
+            "Amsterdam"
+        ]
+    },
+    {
+        "demonym": "Aucklander",
+        "origins": [
+            "Auckland"
+        ]
+    },
+    {
+        "demonym": "Beijinger",
+        "origins": [
+            "Beijing"
+        ]
+    },
+    {
+        "demonym": "Belgrader",
+        "origins": [
+            "Belgrade"
+        ]
+    },
+    {
+        "demonym": "Berliner",
+        "origins": [
+            "Berlin"
+        ]
+    },
+    {
+        "demonym": "Budapester",
+        "origins": [
+            "Budapest"
+        ]
+    },
+    {
+        "demonym": "Clevelander",
+        "origins": [
+            "Cleveland"
+        ]
+    },
+    {
+        "demonym": "Cook Islander",
+        "origins": [
+            "Cook Islands"
+        ]
+    },
+    {
+        "demonym": "Copenhagener",
+        "origins": [
+            "Copenhagen"
+        ]
+    },
+    {
+        "demonym": "Detroiter",
+        "origins": [
+            "Detroit"
+        ]
+    },
+    {
+        "demonym": "Dubliner",
+        "origins": [
+            "Dublin"
+        ]
+    },
+    {
+        "demonym": "Dresdener",
+        "origins": [
+            "Dresden"
+        ]
+    },
+    {
+        "demonym": "Fifer",
+        "origins": [
+            "Fife"
+        ]
+    },
+    {
+        "demonym": "Frankfurter",
+        "origins": [
+            "Frankfurt"
+        ]
+    },
+    {
+        "demonym": "Greenlandic",
+        "origins": [
+            "Greenland"
+        ]
+    },
+    {
+        "demonym": "Greenlander",
+        "origins": [
+            "Greenland"
+        ]
+    },
+    {
+        "demonym": "Hamburger",
+        "origins": [
+            "Hamburg"
+        ]
+    },
+    {
+        "demonym": "Hannoveraner",
+        "origins": [
+            "Hannover"
+        ]
+    },
+    {
+        "demonym": "Hong Kongese",
+        "origins": [
+            "Hong Kong"
+        ]
+    },
+    {
+        "demonym": "Hongkongese",
+        "origins": [
+            "Hong Kong"
+        ]
+    },
+    {
+        "demonym": "Hong Konger",
+        "origins": [
+            "Hong Kong"
+        ]
+    },
+    {
+        "demonym": "Hongkonger",
+        "origins": [
+            "Hong Kong"
+        ]
+    },
+    {
+        "demonym": "Icelandic",
+        "origins": [
+            "Iceland"
+        ]
+    },
+    {
+        "demonym": "Icelander",
+        "origins": [
+            "Iceland"
+        ]
+    },
+    {
+        "demonym": "Loiner",
+        "origins": [
+            "Leeds"
+        ]
+    },
+    {
+        "demonym": "Leipziger",
+        "origins": [
+            "Leipzig"
+        ]
+    },
+    {
+        "demonym": "Liechtensteiner",
+        "origins": [
+            "Liechtenstein"
+        ]
+    },
+    {
+        "demonym": "Londoner",
+        "origins": [
+            "London"
+        ]
+    },
+    {
+        "demonym": "Lorrainer",
+        "origins": [
+            "Lorraine"
+        ]
+    },
+    {
+        "demonym": "Luxembourger",
+        "origins": [
+            "Luxembourg"
+        ]
+    },
+    {
+        "demonym": "Mainer",
+        "origins": [
+            "Maine"
+        ]
+    },
+    {
+        "demonym": "Marylander",
+        "origins": [
+            "Maryland"
+        ]
+    },
+    {
+        "demonym": "Michigander",
+        "origins": [
+            "Michigan"
+        ]
+    },
+    {
+        "demonym": "Montrealer",
+        "origins": [
+            "Montreal"
+        ]
+    },
+    {
+        "demonym": "Dutchman",
+        "origins": [
+            "Netherlands"
+        ]
+    },
+    {
+        "demonym": "Hollander",
+        "origins": [
+            "Netherlands"
+        ]
+    },
+    {
+        "demonym": "Netherlander",
+        "origins": [
+            "Netherlands"
+        ]
+    },
+    {
+        "demonym": "New Englander",
+        "origins": [
+            "New England"
+        ]
+    },
+    {
+        "demonym": "New Yorker",
+        "origins": [
+            "New York"
+        ]
+    },
+    {
+        "demonym": "New Zealander",
+        "origins": [
+            "New Zealand"
+        ]
+    },
+    {
+        "demonym": "Newfoundlander",
+        "origins": [
+            "Newfoundland"
+        ]
+    },
+    {
+        "demonym": "Pittsburgher",
+        "origins": [
+            "Pittsburgh"
+        ]
+    },
+    {
+        "demonym": "Praguer",
+        "origins": [
+            "Prague"
+        ]
+    },
+    {
+        "demonym": "Puntlander",
+        "origins": [
+            "Puntland"
+        ]
+    },
+    {
+        "demonym": "Quebecker",
+        "origins": [
+            "Quebec"
+        ]
+    },
+    {
+        "demonym": "Quebecer",
+        "origins": [
+            "Quebec"
+        ]
+    },
+    {
+        "demonym": "Queenslander",
+        "origins": [
+            "Queensland"
+        ]
+    },
+    {
+        "demonym": "Rhinelander",
+        "origins": [
+            "Rhineland"
+        ]
+    },
+    {
+        "demonym": "Rhode Islander",
+        "origins": [
+            "Rhode Island"
+        ]
+    },
+    {
+        "demonym": "Rotterdammer",
+        "origins": [
+            "Rotterdam"
+        ]
+    },
+    {
+        "demonym": "Saigoner",
+        "origins": [
+            "Saigon"
+        ]
+    },
+    {
+        "demonym": "Solomon Islander",
+        "origins": [
+            "Solomon Islands"
+        ]
+    },
+    {
+        "demonym": "Somalilander",
+        "origins": [
+            "Somaliland"
+        ]
+    },
+    {
+        "demonym": "Stockholmer",
+        "origins": [
+            "Stockholm"
+        ]
+    },
+    {
+        "demonym": "Stuttgarter",
+        "origins": [
+            "Stuttgart"
+        ]
+    },
+    {
+        "demonym": "Tallinner",
+        "origins": [
+            "Tallinn"
+        ]
+    },
+    {
+        "demonym": "Vermonter",
+        "origins": [
+            "Vermont"
+        ]
+    },
+    {
+        "demonym": "Winnipegger",
+        "origins": [
+            "Winnipeg"
+        ]
+    },
+    {
+        "demonym": "Yellowknifer",
+        "origins": [
+            "Yellowknife"
+        ]
+    },
+    {
+        "demonym": "Yukoner",
+        "origins": [
+            "Yukon"
+        ]
+    },
+    {
+        "demonym": "Zuricher",
+        "origins": [
+            "Zurich"
+        ]
+    },
+    {
+        "demonym": "Ålandish",
+        "origins": [
+            "Åland"
+        ]
+    },
+    {
+        "demonym": "Briton",
+        "origins": [
+            "Britain",
+            "Great Britain",
+            "United Kingdom of Great Britain and Northern Ireland"
+        ]
+    },
+    {
+        "demonym": "British",
+        "origins": [
+            "Britain",
+            "Great Britain",
+            "United Kingdom of Great Britain and Northern Ireland"
+        ]
+    },
+    {
+        "demonym": "Cornishman",
+        "origins": [
+            "Cornwall"
+        ]
+    },
+    {
+        "demonym": "Cornish",
+        "origins": [
+            "Cornwall"
+        ]
+    },
+    {
+        "demonym": "Dane",
+        "origins": [
+            "Denmark"
+        ]
+    },
+    {
+        "demonym": "Danish",
+        "origins": [
+            "Denmark"
+        ]
+    },
+    {
+        "demonym": "Englishman",
+        "origins": [
+            "England"
+        ]
+    },
+    {
+        "demonym": "English",
+        "origins": [
+            "England"
+        ]
+    },
+    {
+        "demonym": "Finn",
+        "origins": [
+            "Finland"
+        ]
+    },
+    {
+        "demonym": "Finnic",
+        "origins": [
+            "Finland"
+        ]
+    },
+    {
+        "demonym": "Finnish",
+        "origins": [
+            "Finland"
+        ]
+    },
+    {
+        "demonym": "Irishman",
+        "origins": [
+            "Ireland"
+        ]
+    },
+    {
+        "demonym": "Irish",
+        "origins": [
+            "Ireland"
+        ]
+    },
+    {
+        "demonym": "Kurd",
+        "origins": [
+            "Kurdistan"
+        ]
+    },
+    {
+        "demonym": "Kurdish",
+        "origins": [
+            "Kurdistan"
+        ]
+    },
+    {
+        "demonym": "Northern Irishman",
+        "origins": [
+            "Northern Ireland"
+        ]
+    },
+    {
+        "demonym": "Northern Irish",
+        "origins": [
+            "Northern Ireland"
+        ]
+    },
+    {
+        "demonym": "Pole",
+        "origins": [
+            "Poland"
+        ]
+    },
+    {
+        "demonym": "Polish",
+        "origins": [
+            "Poland"
+        ]
+    },
+    {
+        "demonym": "Scot",
+        "origins": [
+            "Scotland"
+        ]
+    },
+    {
+        "demonym": "Scotsman",
+        "origins": [
+            "Scotland"
+        ]
+    },
+    {
+        "demonym": "Scottish",
+        "origins": [
+            "Scotland"
+        ]
+    },
+    {
+        "demonym": "Spaniard",
+        "origins": [
+            "Spain"
+        ]
+    },
+    {
+        "demonym": "Spanish",
+        "origins": [
+            "Spain"
+        ]
+    },
+    {
+        "demonym": "Swede",
+        "origins": [
+            "Sweden"
+        ]
+    },
+    {
+        "demonym": "Swedish",
+        "origins": [
+            "Sweden"
+        ]
+    },
+    {
+        "demonym": "Cairene",
+        "origins": [
+            "Cairo"
+        ]
+    },
+    {
+        "demonym": "Cyrene",
+        "origins": [
+            "Cyrenaica"
+        ]
+    },
+    {
+        "demonym": "Damascene",
+        "origins": [
+            "Damascus"
+        ]
+    },
+    {
+        "demonym": "Greek",
+        "origins": [
+            "Greece"
+        ]
+    },
+    {
+        "demonym": "Hellene",
+        "origins": [
+            "Greece"
+        ]
+    },
+    {
+        "demonym": "Nazarene",
+        "origins": [
+            "Nazareth"
+        ]
+    },
+    {
+        "demonym": "Slovenian",
+        "origins": [
+            "Slovenia"
+        ]
+    },
+    {
+        "demonym": "Slovene",
+        "origins": [
+            "Slovenia"
+        ]
+    },
+    {
+        "demonym": "Hullensian",
+        "origins": []
+    },
+    {
+        "demonym": "Spanish",
+        "origins": [
+            "Spain"
+        ]
+    },
+    {
+        "demonym": "Spaniard",
+        "origins": [
+            "Spain"
+        ]
+    },
+    {
+        "demonym": "Savoyard",
+        "origins": [
+            "Savoy"
+        ]
+    },
+    {
+        "demonym": "Abruzzese",
+        "origins": [
+            "Abruzzo"
+        ]
+    },
+    {
+        "demonym": "Aragonese",
+        "origins": [
+            "Aragon"
+        ]
+    },
+    {
+        "demonym": "Acehnese",
+        "origins": [
+            "Aceh"
+        ]
+    },
+    {
+        "demonym": "Assamese",
+        "origins": [
+            "Assam"
+        ]
+    },
+    {
+        "demonym": "Balinese",
+        "origins": [
+            "Bali"
+        ]
+    },
+    {
+        "demonym": "Beninois",
+        "origins": [
+            "Benin"
+        ]
+    },
+    {
+        "demonym": "Beninese",
+        "origins": [
+            "Benin"
+        ]
+    },
+    {
+        "demonym": "Bernese",
+        "origins": [
+            "Bern"
+        ]
+    },
+    {
+        "demonym": "Bhutanese",
+        "origins": [
+            "Bhutan"
+        ]
+    },
+    {
+        "demonym": "Bolognese",
+        "origins": [
+            "Bologna"
+        ]
+    },
+    {
+        "demonym": "Calabrese",
+        "origins": [
+            "Calabria"
+        ]
+    },
+    {
+        "demonym": "Chinese",
+        "origins": [
+            "China"
+        ]
+    },
+    {
+        "demonym": "Congolese",
+        "origins": [
+            "Congo"
+        ]
+    },
+    {
+        "demonym": "Dalatese",
+        "origins": [
+            "Da Lat"
+        ]
+    },
+    {
+        "demonym": "East Timorese",
+        "origins": [
+            "East Timor"
+        ]
+    },
+    {
+        "demonym": "Faroese",
+        "origins": [
+            "Faroe Islands"
+        ]
+    },
+    {
+        "demonym": "Gabonese",
+        "origins": [
+            "Gabon"
+        ]
+    },
+    {
+        "demonym": "Genovese",
+        "origins": [
+            "Genoa"
+        ]
+    },
+    {
+        "demonym": "Cantonese",
+        "origins": [
+            "Guangdong"
+        ]
+    },
+    {
+        "demonym": "Guyanese",
+        "origins": [
+            "Guyana"
+        ]
+    },
+    {
+        "demonym": "Hainanese",
+        "origins": [
+            "Hainan"
+        ]
+    },
+    {
+        "demonym": "Hongkongese",
+        "origins": [
+            "Hong Kong"
+        ]
+    },
+    {
+        "demonym": "Hunanese",
+        "origins": [
+            "Hunan"
+        ]
+    },
+    {
+        "demonym": "Japanese",
+        "origins": [
+            "Japan"
+        ]
+    },
+    {
+        "demonym": "Javan",
+        "origins": [
+            "Java"
+        ]
+    },
+    {
+        "demonym": "Javanese",
+        "origins": [
+            "Java"
+        ]
+    },
+    {
+        "demonym": "Lebanese",
+        "origins": [
+            "Lebanon"
+        ]
+    },
+    {
+        "demonym": "Macanese/Chinese",
+        "origins": [
+            "Macao"
+        ]
+    },
+    {
+        "demonym": "Maltese",
+        "origins": [
+            "Malta"
+        ]
+    },
+    {
+        "demonym": "Manilese",
+        "origins": [
+            "Manila"
+        ]
+    },
+    {
+        "demonym": "Marshallese",
+        "origins": [
+            "Marshall Islands"
+        ]
+    },
+    {
+        "demonym": "Milanese",
+        "origins": [
+            "Milan"
+        ]
+    },
+    {
+        "demonym": "Burmese",
+        "origins": [
+            "Myanmar/Burma"
+        ]
+    },
+    {
+        "demonym": "Nepali",
+        "origins": [
+            "Nepal"
+        ]
+    },
+    {
+        "demonym": "Nepalese",
+        "origins": [
+            "Nepal"
+        ]
+    },
+    {
+        "demonym": "Piedmontese",
+        "origins": [
+            "Piedmont"
+        ]
+    },
+    {
+        "demonym": "Pittsburghese",
+        "origins": [
+            "Pittsburgh"
+        ]
+    },
+    {
+        "demonym": "Portuguese",
+        "origins": [
+            "Portugal"
+        ]
+    },
+    {
+        "demonym": "Rwandan",
+        "origins": [
+            "Rwanda"
+        ]
+    },
+    {
+        "demonym": "Rwandese",
+        "origins": [
+            "Rwanda"
+        ]
+    },
+    {
+        "demonym": "Sammarinese",
+        "origins": [
+            "San Marino"
+        ]
+    },
+    {
+        "demonym": "Sarkese",
+        "origins": [
+            "Sark"
+        ]
+    },
+    {
+        "demonym": "Senegalese",
+        "origins": [
+            "Senegal"
+        ]
+    },
+    {
+        "demonym": "Shanghainese",
+        "origins": [
+            "Shanghai"
+        ]
+    },
+    {
+        "demonym": "Siamese",
+        "origins": [
+            "Siam"
+        ]
+    },
+    {
+        "demonym": "Sikkimese",
+        "origins": [
+            "Sikkim"
+        ]
+    },
+    {
+        "demonym": "Sudanese",
+        "origins": [
+            "South",
+            "Sudan"
+        ]
+    },
+    {
+        "demonym": "Surinamese",
+        "origins": [
+            "Suriname"
+        ]
+    },
+    {
+        "demonym": "Taiwanese",
+        "origins": [
+            "Taiwan"
+        ]
+    },
+    {
+        "demonym": "Togolese",
+        "origins": [
+            "Togo"
+        ]
+    },
+    {
+        "demonym": "Torinese",
+        "origins": [
+            "Turin"
+        ]
+    },
+    {
+        "demonym": "Tyrolese",
+        "origins": [
+            "Tyrol"
+        ]
+    },
+    {
+        "demonym": "Viennese",
+        "origins": [
+            "Vienna"
+        ]
+    },
+    {
+        "demonym": "Vietnamese",
+        "origins": [
+            "Vietnam"
+        ]
+    },
+    {
+        "demonym": "Allahabadi",
+        "origins": [
+            "Allahabad"
+        ]
+    },
+    {
+        "demonym": "Azawadi",
+        "origins": [
+            "Azawad"
+        ]
+    },
+    {
+        "demonym": "Azerbaijani",
+        "origins": [
+            "Azerbaijan"
+        ]
+    },
+    {
+        "demonym": "Azerbaijanian",
+        "origins": [
+            "Azerbaijan"
+        ]
+    },
+    {
+        "demonym": "Azeri",
+        "origins": [
+            "Azerbaijan"
+        ]
+    },
+    {
+        "demonym": "Azragi",
+        "origins": [
+            "Azra"
+        ]
+    },
+    {
+        "demonym": "Baloch",
+        "origins": [
+            "Balochistan"
+        ]
+    },
+    {
+        "demonym": "Baluch",
+        "origins": [
+            "Balochistan"
+        ]
+    },
+    {
+        "demonym": "Baluchi",
+        "origins": [
+            "Balochistan"
+        ]
+    },
+    {
+        "demonym": "Balochistani",
+        "origins": [
+            "Balochistan"
+        ]
+    },
+    {
+        "demonym": "Bahraini",
+        "origins": [
+            "Bahrain"
+        ]
+    },
+    {
+        "demonym": "Bangladeshi",
+        "origins": [
+            "Bangladesh"
+        ]
+    },
+    {
+        "demonym": "Bengali",
+        "origins": [
+            "Bengal"
+        ]
+    },
+    {
+        "demonym": "Bharati",
+        "origins": [
+            "Bharat"
+        ]
+    },
+    {
+        "demonym": "Bihari",
+        "origins": [
+            "Bihar"
+        ]
+    },
+    {
+        "demonym": "Dagestani",
+        "origins": [
+            "Dagestan"
+        ]
+    },
+    {
+        "demonym": "Faridabadi",
+        "origins": [
+            "Faridabad"
+        ]
+    },
+    {
+        "demonym": "Gujarati",
+        "origins": [
+            "Gujarat"
+        ]
+    },
+    {
+        "demonym": "Armenian",
+        "origins": [
+            "Hayastan"
+        ]
+    },
+    {
+        "demonym": "Hayastani",
+        "origins": [
+            "Hayastan"
+        ]
+    },
+    {
+        "demonym": "Azragi",
+        "origins": [
+            "Hazara"
+        ]
+    },
+    {
+        "demonym": "Hazaragi",
+        "origins": [
+            "Hazara"
+        ]
+    },
+    {
+        "demonym": "Hyderabadi",
+        "origins": [
+            "Hyderabad"
+        ]
+    },
+    {
+        "demonym": "Iranian",
+        "origins": [
+            "Iran"
+        ]
+    },
+    {
+        "demonym": "Persian",
+        "origins": [
+            "Iran"
+        ]
+    },
+    {
+        "demonym": "Irani",
+        "origins": [
+            "Iran"
+        ]
+    },
+    {
+        "demonym": "Iraqi",
+        "origins": [
+            "Iraq"
+        ]
+    },
+    {
+        "demonym": "Israeli",
+        "origins": [
+            "Israel"
+        ]
+    },
+    {
+        "demonym": "Malayalee",
+        "origins": [
+            "Kerala"
+        ]
+    },
+    {
+        "demonym": "Malayali",
+        "origins": [
+            "Kerala"
+        ]
+    },
+    {
+        "demonym": "Kashmiri",
+        "origins": [
+            "Kashmir"
+        ]
+    },
+    {
+        "demonym": "Kazakh",
+        "origins": [
+            "Kazakhstan"
+        ]
+    },
+    {
+        "demonym": "Kazakhstani",
+        "origins": [
+            "Kazakhstan"
+        ]
+    },
+    {
+        "demonym": "Kurdish",
+        "origins": [
+            "Kurdistan"
+        ]
+    },
+    {
+        "demonym": "Kurd",
+        "origins": [
+            "Kurdistan"
+        ]
+    },
+    {
+        "demonym": "Kurdistani",
+        "origins": [
+            "Kurdistan"
+        ]
+    },
+    {
+        "demonym": "Kuwaiti",
+        "origins": [
+            "Kuwait"
+        ]
+    },
+    {
+        "demonym": "Kyrgyz",
+        "origins": [
+            "Kyrgyzstan"
+        ]
+    },
+    {
+        "demonym": "Kyrgyzstani",
+        "origins": [
+            "Kyrgyzstan"
+        ]
+    },
+    {
+        "demonym": "Lahori",
+        "origins": [
+            "Lahore"
+        ]
+    },
+    {
+        "demonym": "Nepalese",
+        "origins": [
+            "Nepal"
+        ]
+    },
+    {
+        "demonym": "Nepali",
+        "origins": [
+            "Nepal"
+        ]
+    },
+    {
+        "demonym": "Omani",
+        "origins": [
+            "Oman"
+        ]
+    },
+    {
+        "demonym": "Pakistani",
+        "origins": [
+            "Pakistan"
+        ]
+    },
+    {
+        "demonym": "Punjabi",
+        "origins": [
+            "Punjab"
+        ]
+    },
+    {
+        "demonym": "Qatari",
+        "origins": [
+            "Qatar"
+        ]
+    },
+    {
+        "demonym": "Rajasthani",
+        "origins": [
+            "Rajasthan"
+        ]
+    },
+    {
+        "demonym": "Sindhi",
+        "origins": [
+            "Sindh"
+        ]
+    },
+    {
+        "demonym": "Somali",
+        "origins": [
+            "Somalia"
+        ]
+    },
+    {
+        "demonym": "Tajik",
+        "origins": [
+            "Tajikistan"
+        ]
+    },
+    {
+        "demonym": "Tajikistani",
+        "origins": [
+            "Tajikistan"
+        ]
+    },
+    {
+        "demonym": "Tel Avivim",
+        "origins": [
+            "Tel Aviv"
+        ]
+    },
+    {
+        "demonym": "Tel Avivi)",
+        "origins": [
+            "Tel Aviv"
+        ]
+    },
+    {
+        "demonym": "Turkmen",
+        "origins": [
+            "Turkmenistan"
+        ]
+    },
+    {
+        "demonym": "Turkmenistani",
+        "origins": [
+            "Turkmenistan"
+        ]
+    },
+    {
+        "demonym": "Emirati",
+        "origins": [
+            "United Arab Emirates"
+        ]
+    },
+    {
+        "demonym": "Uzbek",
+        "origins": [
+            "Uzbekistan"
+        ]
+    },
+    {
+        "demonym": "Uzbekistani",
+        "origins": [
+            "Uzbekistan"
+        ]
+    },
+    {
+        "demonym": "Yemeni",
+        "origins": [
+            "Yemen"
+        ]
+    },
+    {
+        "demonym": "Yorkshireman",
+        "origins": [
+            "Yorkshire"
+        ]
+    },
+    {
+        "demonym": "Tyke",
+        "origins": [
+            "Yorkshire"
+        ]
+    },
+    {
+        "demonym": "Yorkie",
+        "origins": [
+            "Yorkshire"
+        ]
+    },
+    {
+        "demonym": "Finnic",
+        "origins": [
+            "Finland"
+        ]
+    },
+    {
+        "demonym": "Greenlander",
+        "origins": [
+            "Greenland"
+        ]
+    },
+    {
+        "demonym": "Greenlandic",
+        "origins": [
+            "Greenland"
+        ]
+    },
+    {
+        "demonym": "Icelander",
+        "origins": [
+            "Iceland"
+        ]
+    },
+    {
+        "demonym": "Icelandic",
+        "origins": [
+            "Iceland"
+        ]
+    },
+    {
+        "demonym": "Slavs",
+        "origins": [
+            "Slavic countries"
+        ]
+    },
+    {
+        "demonym": "Slavic",
+        "origins": [
+            "Slavic countries"
+        ]
+    },
+    {
+        "demonym": "Chiot",
+        "origins": [
+            "Chios"
+        ]
+    },
+    {
+        "demonym": "Corfiot",
+        "origins": [
+            "Corfu"
+        ]
+    },
+    {
+        "demonym": "Cyprian",
+        "origins": [
+            "Cyprus"
+        ]
+    },
+    {
+        "demonym": "Cypriot",
+        "origins": [
+            "Cyprus"
+        ]
+    },
+    {
+        "demonym": "Phanariote",
+        "origins": [
+            "Phanar"
+        ]
+    },
+    {
+        "demonym": "Monégasque",
+        "origins": [
+            "Monaco"
+        ]
+    },
+    {
+        "demonym": "Mentonasque",
+        "origins": [
+            "Menton"
+        ]
+    },
+    {
+        "demonym": "Basque",
+        "origins": [
+            "Basque Country"
+        ]
+    },
+    {
+        "demonym": "Galwegian",
+        "origins": [
+            "Galloway"
+        ]
+    },
+    {
+        "demonym": "Galwegian",
+        "origins": [
+            "Galway"
+        ]
+    },
+    {
+        "demonym": "Glaswegian",
+        "origins": [
+            "Glasgow"
+        ]
+    },
+    {
+        "demonym": "Norwegian",
+        "origins": [
+            "Norway"
+        ]
+    },
+    {
+        "demonym": "Aberdonian",
+        "origins": [
+            "Aberdeen"
+        ]
+    },
+    {
+        "demonym": "Bathonian",
+        "origins": [
+            "Bath"
+        ]
+    },
+    {
+        "demonym": "Bostonian",
+        "origins": [
+            "Boston"
+        ]
+    },
+    {
+        "demonym": "Connachtonian",
+        "origins": [
+            "Connacht"
+        ]
+    },
+    {
+        "demonym": "Corkonian",
+        "origins": [
+            "Cork"
+        ]
+    },
+    {
+        "demonym": "Dundonian",
+        "origins": [
+            "Dundee"
+        ]
+    },
+    {
+        "demonym": "Haligonian",
+        "origins": [
+            "Halifax"
+        ]
+    },
+    {
+        "demonym": "Newportonian",
+        "origins": [
+            "Newport"
+        ]
+    },
+    {
+        "demonym": "Oxonian",
+        "origins": [
+            "Oxford"
+        ]
+    },
+    {
+        "demonym": "Barrovian",
+        "origins": [
+            "Barrow-in-Furness"
+        ]
+    },
+    {
+        "demonym": "Oamaruvian",
+        "origins": [
+            "Oamaru"
+        ]
+    },
+    {
+        "demonym": "Oslovian",
+        "origins": [
+            "Oslo"
+        ]
+    },
+    {
+        "demonym": "Peruvian",
+        "origins": [
+            "Peru"
+        ]
+    },
+    {
+        "demonym": "Warsovian",
+        "origins": [
+            "Warsaw"
+        ]
+    },
+    {
+        "demonym": "Waterluvian",
+        "origins": [
+            "Waterloo"
+        ]
+    },
+    {
+        "demonym": "Nigerien",
+        "origins": [
+            "Niger"
+        ]
+    },
+    {
+        "demonym": "Burkinabe",
+        "origins": [
+            "Burkina Faso"
+        ]
+    },
+    {
+        "demonym": "Chinese",
+        "origins": [
+            "China"
+        ]
+    },
+    {
+        "demonym": "Chinaman",
+        "origins": [
+            "China"
+        ]
+    },
+    {
+        "demonym": "Cornishman",
+        "origins": [
+            "Cornwall"
+        ]
+    },
+    {
+        "demonym": "Englishman",
+        "origins": [
+            "England"
+        ]
+    },
+    {
+        "demonym": "Frenchman",
+        "origins": [
+            "France"
+        ]
+    },
+    {
+        "demonym": "Jerseyman",
+        "origins": [
+            "Jersey"
+        ]
+    },
+    {
+        "demonym": "Kerryman",
+        "origins": [
+            "Kerry"
+        ]
+    },
+    {
+        "demonym": "Dutchman",
+        "origins": [
+            "Netherlands"
+        ]
+    },
+    {
+        "demonym": "New South Welshman",
+        "origins": [
+            "New South Wales"
+        ]
+    },
+    {
+        "demonym": "Scotsman",
+        "origins": [
+            "Scotland"
+        ]
+    },
+    {
+        "demonym": "Ulsterman",
+        "origins": [
+            "Ulster"
+        ]
+    },
+    {
+        "demonym": "Welshman",
+        "origins": [
+            "Wales"
+        ]
+    },
+    {
+        "demonym": "Yorkshireman",
+        "origins": [
+            "Yorkshire"
+        ]
+    },
+    {
+        "demonym": "Beninois",
+        "origins": [
+            "Benin"
+        ]
+    },
+    {
+        "demonym": "Gabonais",
+        "origins": [
+            "Gabon"
+        ]
+    },
+    {
+        "demonym": "Seychellois",
+        "origins": [
+            "Seychelles"
+        ]
+    },
+    {
+        "demonym": "Alsatian",
+        "origins": [
+            "Alsace"
+        ]
+    },
+    {
+        "demonym": "Ashburnian",
+        "origins": [
+            "Ashbourne"
+        ]
+    },
+    {
+        "demonym": "Cantabrigian",
+        "origins": [
+            "Cambridge"
+        ]
+    },
+    {
+        "demonym": "Colcestrian",
+        "origins": [
+            "Colchester"
+        ]
+    },
+    {
+        "demonym": "Couronian",
+        "origins": [
+            "Courland"
+        ]
+    },
+    {
+        "demonym": "Exonian",
+        "origins": [
+            "Exeter"
+        ]
+    },
+    {
+        "demonym": "German",
+        "origins": [
+            "Germany"
+        ]
+    },
+    {
+        "demonym": "Sarnian",
+        "origins": [
+            "Guernsey"
+        ]
+    },
+    {
+        "demonym": "Haligonian",
+        "origins": [
+            "Halifax"
+        ]
+    },
+    {
+        "demonym": "Hispanic",
+        "origins": [
+            "Hispanic America"
+        ]
+    },
+    {
+        "demonym": "Hibernian",
+        "origins": [
+            "Ireland"
+        ]
+    },
+    {
+        "demonym": "Leodensian",
+        "origins": [
+            "Leeds"
+        ]
+    },
+    {
+        "demonym": "Leopolitan",
+        "origins": [
+            "Lviv"
+        ]
+    },
+    {
+        "demonym": "Mancunian",
+        "origins": [
+            "Manchester"
+        ]
+    },
+    {
+        "demonym": "Melburnian",
+        "origins": [
+            "Melbourne"
+        ]
+    },
+    {
+        "demonym": "Minneapolitan",
+        "origins": [
+            "Minneapolis"
+        ]
+    },
+    {
+        "demonym": "Neapolitan",
+        "origins": [
+            "Naples"
+        ]
+    },
+    {
+        "demonym": "Novocastrian",
+        "origins": [
+            "Newcastle"
+        ]
+    },
+    {
+        "demonym": "Orcadian",
+        "origins": [
+            "Orkney Islands"
+        ]
+    },
+    {
+        "demonym": "Salopian",
+        "origins": [
+            "Shropshire"
+        ]
+    },
+    {
+        "demonym": "Tripolitan",
+        "origins": [
+            "Tripoli"
+        ]
+    },
+    {
+        "demonym": "Venetian",
+        "origins": [
+            "Venice"
+        ]
+    },
+    {
+        "demonym": "Wulfrunian",
+        "origins": [
+            "Wolverhampton"
+        ]
+    },
+    {
+        "demonym": "Motswana, Batswana",
+        "origins": [
+            "Botswana"
+        ]
+    },
+    {
+        "demonym": "Umurundi, Abarundi",
+        "origins": [
+            "Burundi"
+        ]
+    },
+    {
+        "demonym": "Mosotho, Basotho",
+        "origins": [
+            "Lesotho"
+        ]
+    },
+    {
+        "demonym": "i-Kiribati",
+        "origins": [
+            "Kiribati"
+        ]
+    },
+    {
+        "demonym": "Ni-Vanuatu",
+        "origins": [
+            "Vanuatu"
+        ]
+    },
+    {
+        "demonym": "Abkhaz",
+        "origins": [
+            "Abkhazia"
+        ]
+    },
+    {
+        "demonym": "Afghan",
+        "origins": [
+            "Afghanistan"
+        ]
+    },
+    {
+        "demonym": "Arab",
+        "origins": [
+            "Arabia"
+        ]
+    },
+    {
+        "demonym": "Azeri",
+        "origins": [
+            "Azerbaijan"
+        ]
+    },
+    {
+        "demonym": "Catalan",
+        "origins": [
+            "Catalonia"
+        ]
+    },
+    {
+        "demonym": "Chechen",
+        "origins": [
+            "Chechnya"
+        ]
+    },
+    {
+        "demonym": "Croat",
+        "origins": [
+            "Croatia"
+        ]
+    },
+    {
+        "demonym": "Czech",
+        "origins": [
+            "Czech Republic"
+        ]
+    },
+    {
+        "demonym": "Dane",
+        "origins": [
+            "Denmark"
+        ]
+    },
+    {
+        "demonym": "Finn",
+        "origins": [
+            "Finland"
+        ]
+    },
+    {
+        "demonym": "Ingush",
+        "origins": [
+            "Ingushetia"
+        ]
+    },
+    {
+        "demonym": "Kalmyk",
+        "origins": [
+            "Kalmykia"
+        ]
+    },
+    {
+        "demonym": "Kazakh",
+        "origins": [
+            "Kazakhstan"
+        ]
+    },
+    {
+        "demonym": "Zulu",
+        "origins": [
+            "KwaZulu"
+        ]
+    },
+    {
+        "demonym": "Kurd",
+        "origins": [
+            "Kurdistan"
+        ]
+    },
+    {
+        "demonym": "Kyrgyz",
+        "origins": [
+            "Kyrgyzstan"
+        ]
+    },
+    {
+        "demonym": "Lapp",
+        "origins": [
+            "Lapland"
+        ]
+    },
+    {
+        "demonym": "Malay",
+        "origins": [
+            "Malaya"
+        ]
+    },
+    {
+        "demonym": "Mongol",
+        "origins": [
+            "Mongolia"
+        ]
+    },
+    {
+        "demonym": "Oromo",
+        "origins": [
+            "Oromia"
+        ]
+    },
+    {
+        "demonym": "Pole",
+        "origins": [
+            "Poland"
+        ]
+    },
+    {
+        "demonym": "Scot",
+        "origins": [
+            "Scotland"
+        ]
+    },
+    {
+        "demonym": "Serb",
+        "origins": [
+            "Serbia"
+        ]
+    },
+    {
+        "demonym": "Slovak",
+        "origins": [
+            "Slovakia"
+        ]
+    },
+    {
+        "demonym": "Slovene",
+        "origins": [
+            "Slovenia"
+        ]
+    },
+    {
+        "demonym": "Somali",
+        "origins": [
+            "Somalia",
+            "Somaliland"
+        ]
+    },
+    {
+        "demonym": "Swazi",
+        "origins": [
+            "Swaziland"
+        ]
+    },
+    {
+        "demonym": "Tajik",
+        "origins": [
+            "Tajikistan"
+        ]
+    },
+    {
+        "demonym": "Tamil",
+        "origins": [
+            "Tamil Nadu"
+        ]
+    },
+    {
+        "demonym": "Tatar",
+        "origins": [
+            "Tatarstan"
+        ]
+    },
+    {
+        "demonym": "Thai",
+        "origins": [
+            "Thailand"
+        ]
+    },
+    {
+        "demonym": "Turk",
+        "origins": [
+            "Turkey"
+        ]
+    },
+    {
+        "demonym": "Turkmen",
+        "origins": [
+            "Turkmenistan"
+        ]
+    },
+    {
+        "demonym": "Uzbek",
+        "origins": [
+            "Uzbekistan"
+        ]
+    }
+]
